@@ -70,7 +70,6 @@
 
 ## 联系我
 
-baideqian@hrbeu.edu.cn
 
 baideqian@foxmail.com
 
